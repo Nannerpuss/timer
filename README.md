@@ -23,6 +23,4 @@ Checkboxes
     Always on Top: Keeps the timer window always on top of other windows.
 
 
-You'll need to add your own sound file that plays when the timer reaches 0.
-
-Name the sound file alert.mp3 and place it in the sounds directory.
+You can change the sound that plays by dropping a different sound file in the sound folder and renaming it alert.mp3
