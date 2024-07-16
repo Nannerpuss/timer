@@ -1,0 +1,5 @@
+*.env
+arpentbot - Copy.py
+*.bat
+*.spec
+build
